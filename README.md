@@ -1,1 +1,1 @@
-# Designer-PDF-Viewer-ALGO
+# Designer-PDF-Viewer-ALGO.The function finds the tallest letter in the word by mapping each character to its corresponding height, then multiplies that height by the word’s length to calculate the highlighted area in the PDF viewer.
